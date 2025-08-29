@@ -1,6 +1,5 @@
-# task6
-
-A new Flutter project.
+# Task6
+Home Screen & Result Screen
 
 ## Getting Started
 
